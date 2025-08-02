@@ -2,7 +2,7 @@
 
 A Model Context Protocol (MCP) server that enables Claude Desktop to control Fusion 360 through natural language commands. Create, manipulate, and modify 3D objects in Fusion 360 by simply describing what you want to do.
 
-> **Inspiration:** This project is inspired by and adapted from the excellent work by [神原 友徳 (Kanbara Tomonori)](https://note.com/tomo1230/n/n123abc), an Autodesk certified Fusion 360 Expert Elite. This version provides a French-localized and slightly modified implementation of the original MCP × Fusion API integration concept.
+> **Inspiration:** This project is inspired by and adapted from the excellent work by [神原 友徳 (Kanbara Tomonori)](https://note.com/tomo1230ee/n/n123abc), an Autodesk certified Fusion 360 Expert Elite. This version provides a French-localized and slightly modified implementation of the original MCP × Fusion API integration concept.
 
 ## 📝 About This Implementation
 
@@ -70,14 +70,14 @@ This software is provided as-is. Use at your own risk. Make sure to save your Fu
 ## 🙏 Acknowledgments
 
 - **Original Concept**: [神原 友徳 (Kanbara Tomonori)](https://note.com/tomo1230/) - Autodesk certified Fusion 360 Expert Elite
-- **Original Tutorial**: ["🧠 Claude AIとAutodesk Fusion をつなぐ！「MCP × Fusion API」連携チュートリアル"](https://note.com/tomo1230/n/n123abc)
+- **Original Tutorial**: ["🧠 Claude AIとAutodesk Fusion をつなぐ！「MCP × Fusion API」連携チュートリアル"](https://note.com/tomo1230ee/n/n123abc)
 - [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) by Anthropic
 - [Fusion 360](https://www.autodesk.com/products/fusion-360) by Autodesk
 - [Claude Desktop](https://claude.ai/download) by Anthropic
 
 ## 📚 Related Resources
 
-- [Original Japanese Implementation](https://note.com/tomo1230/) by Kanbara Tomonori
+- [Original Japanese Implementation](https://note.com/tomo1230ee/) by Kanbara Tomonori
 - [MCP Documentation](https://docs.anthropic.com/en/docs/build-with-claude/mcp)
 - [Fusion 360 API Documentation](https://help.autodesk.com/view/fusion360/ENU/?guid=GUID-A92A4B10-3781-4925-94C6-47DA85A4F65A) 🚀 Features
 
