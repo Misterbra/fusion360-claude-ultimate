@@ -1,0 +1,13 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "addin",
+    "id": "fusion_mcp_server",
+    "name": "Fusion MCP Server",
+    "author": "NessV2",
+    "description": {
+        "": "Connecte Fusion 360 à Claude Desktop via un serveur MCP local."
+    },
+    "version": "1.0.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|macos"
+}

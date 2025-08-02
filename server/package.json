@@ -1,0 +1,17 @@
+{
+  "name": "fusion-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Fusion 360 integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "keywords": ["fusion360", "mcp", "claude", "3d"],
+  "author": "Your Name",
+  "license": "MIT"
+}

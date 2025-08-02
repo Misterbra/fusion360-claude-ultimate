@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fusion_mcp": {
+      "command": "node",
+      "args": ["C:\\Users\\NessV2\\Desktop\\fusion-claude-ultimate\\server\\server.js"],
+      "protocol": "stdio",
+      "description": "Contrôle Fusion 360 via MCP"
+    }
+  }
+}
