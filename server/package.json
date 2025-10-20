@@ -8,10 +8,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.4",
     "fs": "^0.0.1-security",
     "path": "^0.12.7"
   },
-  "keywords": ["fusion360", "mcp", "claude", "3d"],
+  "keywords": [
+    "fusion360",
+    "mcp",
+    "claude",
+    "3d"
+  ],
   "author": "Your Name",
   "license": "MIT"
 }
