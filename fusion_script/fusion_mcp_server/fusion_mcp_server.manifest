@@ -3,7 +3,7 @@
     "type": "addin",
     "id": "fusion_mcp_server",
     "name": "Fusion MCP Server",
-    "author": "NessV2",
+    "author": "Misterbra",
     "description": {
         "": "Connecte Fusion 360 à Claude Desktop via un serveur MCP local."
     },

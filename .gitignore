@@ -1,0 +1,8 @@
+node_modules/
+server/mcp_server.log
+*.log
+fusion_command.txt
+fusion_response.txt
+.DS_Store
+Thumbs.db
+.claude/
